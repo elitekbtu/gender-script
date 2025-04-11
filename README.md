@@ -8,11 +8,11 @@ This Python application provides a graphical user interface (GUI) to determine t
 - Gender detection based on first names
 - Batch processing of names from files
 - Supports `.csv` and `.xlsx` files
-- DPI-aware layout for high-resolution screens (Windows)
 
 ## Screenshots
 
 ![App Screenshot](img.png)
+![App Screenshot](img2.png)
 
 ## Requirements
 
