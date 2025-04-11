@@ -1,6 +1,6 @@
 # Gender Detection GUI Application (Python + Tkinter)
 
-This Python application provides a graphical user interface (GUI) to determine the likely gender of names using the [`gender-guesser`](https://pypi.org/project/gender-guesser/) library. You can input names manually or load them from a file (e.g. CSV or Excel).
+This Python application provides a graphical user interface (GUI) to determine the likely gender of names using the [`gender-guesser`](https://pypi.org/project/gender-guesser/) library..
 
 ## Features
 
@@ -12,7 +12,7 @@ This Python application provides a graphical user interface (GUI) to determine t
 
 ## Screenshots
 
-*(Add screenshots here if available)*
+![App Screenshot](img.png)
 
 ## Requirements
 
